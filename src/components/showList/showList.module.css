@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 50px 30px;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 32px;
+}
+
+.pagination {
+  position: fixed;
+  bottom: 25px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 75px;
+  margin-top: 35px;
+  align-items: center;
+  justify-content: center;
+}
+
+.button {
+  border: 0;
+  background-color: inherit;
+  &:disabled {
+    opacity: 0.2;
+  }
+}

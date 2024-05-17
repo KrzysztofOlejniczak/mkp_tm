@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "Dracula",
+    "img": "../poster/dracula.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Złap mnie, jeśli potrafisz",
+    "img": "../poster/zlapmnie.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Pretty Woman",
+    "img": "../poster/prettywoman.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Madagaskar",
+    "img": "../poster/madagaskar.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Les Misérables",
+    "img": "../poster/lesmis.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Tadek na tropach minotaura",
+    "img": "../poster/tadek.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Prosimy nie wyrywać foteli",
+    "img": "../poster/fotele.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Skrzypek na dachu",
+    "img": "../poster/skrzypek.jpg"
+  }
+]
