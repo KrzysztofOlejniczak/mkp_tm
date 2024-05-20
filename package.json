@@ -1,9 +1,9 @@
 {
-  "name": "mkp",
+  "name": "mkp_kiosk_app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "description": "App with mkp list",
-  "main": "electron.js",
+  "main": "main.js",
   "author": "Krzysztof Olejniczak",
   "license": "MIT",
   "dependencies": {
@@ -19,43 +19,14 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "electron-forge start",
+    "start": "react-scripts start",
+    "start-electron-forge": "electron-forge start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "electron": "electron .",
-    "dist": "electron-builder",
+    "start-electron": "electron .",
     "package": "electron-forge package",
     "make": "electron-forge make"
-  },
-  "build": {
-    "mac": {
-      "publish": {
-        "provider": "github",
-        "owner": "Github Owner",
-        "repo": "Repository Name",
-        "private": true,
-        "token": ""
-      }
-    },
-    "win": {
-      "publish": {
-        "provider": "github",
-        "owner": "Github Owner",
-        "repo": "Repository Name",
-        "private": true,
-        "token": ""
-      }
-    },
-    "files": [
-      "build/**/*",
-      "node_modules/**/*"
-    ],
-    "publish": {
-      "provider": "github",
-      "private": true,
-      "owner": "Github Owner"
-    }
   },
   "eslintConfig": {
     "extends": [
