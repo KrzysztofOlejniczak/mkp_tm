@@ -1,15 +1,9 @@
 import { Helmet } from "react-helmet-async";
 import "./App.css";
-// import Device from "./components/device/device";
-// import data from "./components/data/test.json";
 import { Route, Routes } from "react-router-dom";
 import Home from "./pages/home";
 
 const App = () => {
-  const handleCloseApp = () => {
-    window.electron.closeApp();
-  };
-
   return (
     <>
       <Helmet>
@@ -24,7 +18,6 @@ const App = () => {
       <Routes>
         <Route path="/" element={<Home />} />
       </Routes>
-      <button onClick={handleCloseApp}>Close App</button>
     </>
     // < className="App">
     //   <div>

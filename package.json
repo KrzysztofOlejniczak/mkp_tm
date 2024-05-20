@@ -6,6 +6,7 @@
   "main": "main.js",
   "author": "Krzysztof Olejniczak",
   "license": "MIT",
+  "homepage": "./",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
