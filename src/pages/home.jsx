@@ -6,7 +6,7 @@ import CloseBtn from "../components/closeBtn/closeBtn";
 const Home = () => {
   return (
     <>
-      <CloseBtn />
+      <CloseBtn option="closeApp" />
       <Header />
       <ShowList />
     </>

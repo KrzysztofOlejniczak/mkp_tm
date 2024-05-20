@@ -1,14 +1,13 @@
 import React from "react";
 import style from "./closeBtn.module.css";
-import { Link, useLocation } from "react-router-dom";
+import { Link } from "react-router-dom";
 
-const CloseBtn = () => {
-  const location = useLocation();
-  const handleClose = ({ option }) => {
-    window.electron.ipcRenderer.send("close-app");
+const CloseBtn = ({ option }) => {
+  const handleClose = () => {
+    window.electron.ipcSend("close-app");
   };
 
-  if (location === "/") {
+  if (option === "closeApp") {
     return <button className={style.button} onClick={handleClose}></button>;
   } else {
     return (
