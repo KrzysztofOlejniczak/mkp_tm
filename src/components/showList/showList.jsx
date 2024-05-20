@@ -21,7 +21,7 @@ const ShowList = () => {
     <>
       <section className={styles.container}>
         {currentItems.map((e) => {
-          return <Poster id={e.id} title={e.title} img={e.img} />;
+          return <Poster key={e.id} id={e.id} title={e.title} img={e.img} />;
         })}
       </section>
       <div className={styles.pagination}>

@@ -2,6 +2,7 @@ import { Helmet } from "react-helmet-async";
 import "./App.css";
 import { Route, Routes } from "react-router-dom";
 import Home from "./pages/home";
+import Show from "./pages/show";
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
       </Helmet>
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/show/:showId" element={<Show />} />
       </Routes>
     </>
     // < className="App">
