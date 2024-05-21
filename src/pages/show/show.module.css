@@ -1,0 +1,16 @@
+.showTitle {
+  font-size: 50px;
+  font-weight: 800;
+  margin: 23px 0 10px 100px;
+}
+
+.container {
+  display: flex;
+  padding: 20px;
+  width: 100%;
+  gap: 10px;
+}
+
+.half {
+  width: 487px;
+}

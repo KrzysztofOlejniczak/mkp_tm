@@ -1,0 +1,200 @@
+[
+  {
+    "channel": "1",
+    "name": "Hrabia Dracula",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "2",
+    "name": "Abraham Van Helsing",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "3",
+    "name": "Lucy Westerna",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "4",
+    "name": "Mina Murray / Elisabeta",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "5",
+    "name": "Jonathan Harker",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "6",
+    "name": "Doktor Jack Seward",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "7",
+    "name": "serwis -> 32",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "8",
+    "name": "Quincey P. Morris",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "9",
+    "name": "Artur Holmwood / Sułtan",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "10",
+    "name": "Krucza",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "11",
+    "name": "Ryża",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "12",
+    "name": "Jasna",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "13",
+    "name": "Zagubiona Dziewczynka",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "14",
+    "name": "Chłopiec okrętowy",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "15",
+    "name": "Orechwo",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "16",
+    "name": "Kulczyński",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "17",
+    "name": "Dąbrowski",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "18",
+    "name": "Markowski",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "19",
+    "name": "Jędruch",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "20",
+    "name": "serwis -> 30",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "21",
+    "name": "Sztukowski",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "22",
+    "name": "Janiszewska",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "23",
+    "name": "Drechsler A.",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "24",
+    "name": "Drzewicka",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "25",
+    "name": "Borzyszkowska",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "26",
+    "name": "Czarnecka",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "27",
+    "name": "Pietras",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "28",
+    "name": "Smoleń",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "29",
+    "name": "Lenarczyk-Onasz",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "30",
+    "name": "Drechsler Cz.",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "31",
+    "name": "Bass Pickup",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "32",
+    "name": "R.M. Renfield",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "Mik8",
+    "name": "BACKUP",
+    "isMic": true,
+    "color": ""
+  }
+]

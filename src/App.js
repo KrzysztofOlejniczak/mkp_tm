@@ -1,8 +1,8 @@
 import { Helmet } from "react-helmet-async";
 import "./App.css";
 import { Route, Routes } from "react-router-dom";
-import Home from "./pages/home";
-import Show from "./pages/show";
+import Home from "./pages/home/home";
+import Show from "./pages/show/show";
 
 const App = () => {
   return (
@@ -21,17 +21,6 @@ const App = () => {
         <Route path="/show/:showId" element={<Show />} />
       </Routes>
     </>
-    // < className="App">
-    //   <div>
-    //     {data.slice(0, Math.ceil(data.length / 2)).map((e) => {
-    //       return <Device id={e.id} nr={e.nr} name={e.name} />;
-    //     })}
-    //   </div>
-    //   <div>
-    //     {data.slice(Math.ceil(data.length / 2)).map((e) => {
-    //       return <Device id={e.id} nr={e.nr} name={e.name} />;
-    //     })}
-    //   </div>
 
     /* <Device id="1" nr="1" name="test1" />
       <Device id="2" nr="2" name="test2" />

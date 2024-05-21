@@ -1,11 +1,12 @@
 import React from "react";
-// import style from "./device.module.css";
+import style from "./device.module.css";
 
-const Device = ({ id, nr, name, isHandheld, color }) => {
+const Device = ({ id, nr, name, isMic, color }) => {
   return (
     <div key={id}>
-    <p>{nr} - {name}</p>
-      
+      <p className={style.device}>
+        <span className={style.channel}>{nr}</span> {name}
+      </p>
     </div>
   );
 };
