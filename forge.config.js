@@ -8,8 +8,10 @@ module.exports = {
   rebuildConfig: {},
   makers: [
     {
-      name: "@electron-forge/maker-squirrel",
-      config: {},
+      name: "@electron-forge/maker-wix",
+      config: {
+        manufacturer: "Pigulson",
+      },
     },
     {
       name: "@electron-forge/maker-squirrel",
@@ -19,7 +21,6 @@ module.exports = {
         description: "My Electron application",
         version: "1.0.0",
         setupExe: "MKPAppInstaller.exe",
-        setupIcon: "path/to/icon.ico",
       },
     },
     {
