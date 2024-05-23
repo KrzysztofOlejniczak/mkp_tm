@@ -1,0 +1,92 @@
+[
+  {
+    "channel": "1",
+    "name": "Paweł",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "2",
+    "name": "Maciek",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "3",
+    "name": "Piotrek",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "4",
+    "name": "Marek",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "5",
+    "name": "Emilka",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "6",
+    "name": "Justyna",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "8",
+    "name": "Paulina",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "9",
+    "name": "Brzezina",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "1",
+    "name": "Paweł",
+    "isMic": true,
+    "color": "#fff200"
+  },
+  {
+    "channel": "2",
+    "name": "Maciek",
+    "isMic": true,
+    "color": "#000000"
+  },
+  {
+    "channel": "3",
+    "name": "Piotrek",
+    "isMic": true,
+    "color": "#ff000000"
+  },
+  {
+    "channel": "4",
+    "name": "Marek",
+    "isMic": true,
+    "color": "#1500ff"
+  },
+  {
+    "channel": "5",
+    "name": "Emilka",
+    "isMic": true,
+    "color": ""
+  },
+  {
+    "channel": "6",
+    "name": "Justyna",
+    "isMic": true,
+    "color": ""
+  },
+  {
+    "channel": "7",
+    "name": "Paulina",
+    "isMic": true,
+    "color": ""
+  }
+]
