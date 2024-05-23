@@ -1,16 +1,13 @@
 .showTitle {
+  display: flex;
+  align-items: center;
   font-size: 50px;
   font-weight: 800;
-  margin: 23px 0 10px 100px;
+  height: 120px;
+  padding-left: 30px;
 }
 
 .container {
   display: flex;
-  padding: 20px;
   width: 100%;
-  gap: 10px;
-}
-
-.half {
-  width: 487px;
 }

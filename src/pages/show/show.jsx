@@ -4,10 +4,12 @@ import { useParams } from "react-router-dom";
 import CloseBtn from "../../components/closeBtn/closeBtn";
 import Device from "../../components/device/device";
 import style from "./show.module.css";
+import api from "../../api/show.json";
+import { nanoid } from "nanoid";
 
 const Show = () => {
   const { showId } = useParams();
-  const [data, setData] = useState(null);
+  const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -26,23 +28,39 @@ const Show = () => {
     fetchData();
   }, [showId]);
 
-  if (loading) return <div>Loading...</div>;
+  // if (loading) return <div>Loading...</div>;
 
   return (
     <>
       <CloseBtn />
-      {/* Show id: {showId} */}
-      {/* {console.log(data)} */}
-      <h2 className={style.showTitle}>DRACULA</h2>
+      <h2 className={style.showTitle}>
+        {api.find((e) => e.id === showId).title}
+      </h2>
       <div className={style.container}>
-        <div className={style.half}>
+        <div>
           {data.slice(0, Math.ceil(data.length / 2)).map((e) => {
-            return <Device key={e.channel} nr={e.channel} name={e.name} />;
+            return (
+              <Device
+                key={nanoid(5)}
+                nr={e.channel}
+                name={e.name}
+                isMic={e.isMic}
+                color={e.color}
+              />
+            );
           })}
         </div>
-        <div className={style.half}>
+        <div>
           {data.slice(Math.ceil(data.length / 2)).map((e) => {
-            return <Device key={e.channel} nr={e.channel} name={e.name} />;
+            return (
+              <Device
+                key={nanoid(5)}
+                nr={e.channel}
+                name={e.name}
+                isMic={e.isMic}
+                color={e.color}
+              />
+            );
           })}
         </div>
       </div>
