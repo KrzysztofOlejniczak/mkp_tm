@@ -9,6 +9,7 @@ const Device = ({ id, nr, name, isMic, color }) => {
     height: "35px",
     border: 0,
     borderRadius: "50%",
+    transform: "TranslateY(2px)",
   };
 
   return (

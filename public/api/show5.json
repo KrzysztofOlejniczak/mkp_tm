@@ -1,200 +1,290 @@
 [
   {
     "channel": "1",
-    "name": "Hrabia Dracula",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "2",
-    "name": "Van Helsing",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "3",
-    "name": "Lucy Westerna",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "4",
-    "name": "Mina / Elisabeta",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "5",
-    "name": "Jonathan Harker",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "6",
-    "name": "Doktor Jack Seward",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "7",
-    "name": "serwis -> 32",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "8",
-    "name": "Quincey P. Morris",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "9",
-    "name": "Artur H. / Sułtan",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "10",
-    "name": "Krucza",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "11",
-    "name": "Ryża",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "12",
-    "name": "Jasna",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "13",
-    "name": "Dziewczynka",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "14",
-    "name": "Chłopiec okrętowy",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "15",
-    "name": "Orechwo",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "16",
-    "name": "Kulczyński",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "17",
-    "name": "Dąbrowski",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "18",
-    "name": "Markowski",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "19",
-    "name": "Jędruch",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "20",
-    "name": "serwis -> 30",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "21",
-    "name": "Sztukowski",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "22",
-    "name": "Janiszewska",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "23",
-    "name": "Drechsler A.",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "24",
-    "name": "Drzewicka",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "25",
-    "name": "Borzyszkowska",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "26",
-    "name": "Czarnecka",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "27",
-    "name": "Pietras",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "28",
-    "name": "Smoleń",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "29",
-    "name": "Lenarczyk-Onasz",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "30",
-    "name": "Drechsler Cz.",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "31",
-    "name": "Bass Pickup",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
     "channel": "32",
-    "name": "R.M. Renfield",
+    "name": "test",
     "isMic": false,
     "color": ""
   },
   {
-    "channel": "8",
-    "name": "BACKUP",
-    "isMic": true,
-    "color": "#000"
+    "channel": "33",
+    "name": "test",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "34",
+    "name": "test",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "35",
+    "name": "test",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "36",
+    "name": "test",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "37",
+    "name": "test",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "38",
+    "name": "test",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "39",
+    "name": "test",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "40",
+    "name": "test",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "41",
+    "name": "test",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "42",
+    "name": "test",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "43",
+    "name": "test",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "44",
+    "name": "test",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "45",
+    "name": "test",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "46",
+    "name": "test",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "47",
+    "name": "test",
+    "isMic": false,
+    "color": ""
+  },
+  {
+    "channel": "48",
+    "name": "test",
+    "isMic": false,
+    "color": ""
   }
 ]
